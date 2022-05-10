@@ -5,5 +5,10 @@ public class Main {
         System.out.println("my name is linuo");
 
         System.out.println(1+2222);
+        System.out.println(1+2222);
+        System.out.println(1+2222);
+        System.out.println(1+2222);
+        System.out.println(1+2222);
+        System.out.println(1+2222);
     }
 }
